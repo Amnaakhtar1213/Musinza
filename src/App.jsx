@@ -113,7 +113,7 @@ const removeFromCart = (id) => {
 
 
    return (
-    <Router basename="/Musinsa-clone">
+    <Router basename="/Musinza">
       <Header favoriteCount={favoriteCount} cart={cart} wishlist={wishlist} user={user} setUser={setUser} open={open} setOpen={setOpen}/>
       <Routes>
           <Route path="/" element={<Hero favorite={favorite} toggleFavorite={toggleFavorite} />} />
