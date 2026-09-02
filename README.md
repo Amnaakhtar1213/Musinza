@@ -59,7 +59,7 @@ This project demonstrates dynamic product rendering, interactive favorites and c
 
 ## LIVE DEMO 🌐
 
-- [Click here for *musinsa* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinza/)
+- [Click here for *musinza* clone live-demo to experience yourself](https://amnaakhtar1213.github.io/Musinza/)
 
 -----------------------------
 
